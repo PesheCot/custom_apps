@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>readonly_redirect</id>
+    <name>Readonly Redirect</name>
+    <summary>Redirects readonly users to Files app</summary>
+    <version>1.0.0</version>
+    <licence>agpl</licence>
+    <author>Admin</author>
+    <category>tool</category>
+    <dependencies>
+        <nextcloud min-version="28" max-version="29"/>
+    </dependencies>
+    <namespace>ReadonlyRedirect</namespace>
+</info>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>readonly-protect</id>
+    <name>Readonly Protect</name>
+    <summary>Prevents users with readonly role from modifying files</summary>
+    <description>This app hides all UI elements that allow file modifications for users in readonly_users group</description>
+    <version>1.0.0</version>
+    <licence>agpl</licence>
+    <author>Admin</author>
+    <namespace>ReadonlyProtect</namespace>
+    <category>tools</category>
+    
+    <dependencies>
+        <nextcloud min-version="28" max-version="29"/>
+    </dependencies>
+</info>

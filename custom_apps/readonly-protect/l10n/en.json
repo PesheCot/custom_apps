@@ -1,0 +1,7 @@
+{
+    "translations": {
+        "Readonly mode: File modifications are disabled": "Readonly mode: File modifications are disabled",
+        "You don't have permission to modify files": "You don't have permission to modify files"
+    },
+    "pluralForm": "nplurals=2; plural=(n != 1);"
+}
